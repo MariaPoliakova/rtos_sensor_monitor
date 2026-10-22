@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Ignore exercises directory
+exercises/
