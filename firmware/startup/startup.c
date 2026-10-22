@@ -7,7 +7,7 @@ extern uint32_t _sdata;
 extern uint32_t _edata;
 
 int main (void);
-
+    
 void Reset_Handler(void)
 {
     uint32_t *p = &_sbss;
@@ -30,5 +30,19 @@ void Reset_Handler(void)
     main();
     while(1){
 
+    }
+}
+
+void HardFault_Handler(void){
+
+    while(1){
+
+    }
+}
+
+void Default_Handler(void){
+
+    while(1){
+        
     }
 }
