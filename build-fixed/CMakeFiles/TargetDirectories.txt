@@ -1,4 +1,0 @@
-/Users/mariapoliakova/Documents/rtos-sensor-monitor/build-fixed/CMakeFiles/firmware.elf.dir
-/Users/mariapoliakova/Documents/rtos-sensor-monitor/build-fixed/CMakeFiles/run.dir
-/Users/mariapoliakova/Documents/rtos-sensor-monitor/build-fixed/CMakeFiles/edit_cache.dir
-/Users/mariapoliakova/Documents/rtos-sensor-monitor/build-fixed/CMakeFiles/rebuild_cache.dir

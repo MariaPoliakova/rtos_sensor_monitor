@@ -11,9 +11,11 @@ exercises/
 build/
 build-arm/
 build-clean/
+build-fixed/
 
 #rtos kernel 
 FreeRTOS-Kernel/
 
 *.log
 
+build-fixed/
