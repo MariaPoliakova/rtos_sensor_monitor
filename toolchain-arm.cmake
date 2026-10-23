@@ -1,0 +1,12 @@
+set(CMAKE_SYSTEM_NAME Generic)
+set(CMAKE_SYSTEM_PROCESSOR arm)
+
+find_program(ARM_GCC
+    NAMES arm-none-eabi-gcc
+    REQUIRED
+)
+
+set(CMAKE_C_COMPILER "${ARM_GCC}")
+set(CMAKE_ASM_COMPILER "${ARM_GCC}")
+
+set(CMAKE_TRY_COMPILE_TARGET_TYPE STATIC_LIBRARY)

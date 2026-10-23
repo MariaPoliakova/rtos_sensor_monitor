@@ -3,3 +3,17 @@
 
 # Ignore exercises directory
 exercises/
+
+# firmware 
+*.elf
+*.map
+
+build/
+build-arm/
+build-clean/
+
+#rtos kernel 
+FreeRTOS-Kernel/
+
+*.log
+
